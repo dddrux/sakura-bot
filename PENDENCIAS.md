@@ -7,6 +7,8 @@
 - patchTerm.1: console interativo (data/terminal-console.js: ajuda, status, grupos, enviar, log, auto, backup, reconectar, limpar, sair), novo formato de log alinhado (terminal-theme.js), sem cor fora de TTY/NO_COLOR, QR/diagnóstico padronizados. SAKURA_NO_CONSOLE=1 desativa.
 - patchMenu.1/.2: menus do WhatsApp padronizados em data/menu-style.js (fonte única): padrão 💮/🌸 alternado por posição em listas, botões, cabeçalho e catálogo (emoji de origem ignorado), seção sempre 🪷, link 🔗; Ranks/Rankings unificados; cabeçalho sem duplicação/negrito duplo. formatter.js e config de tema intactos. backup/.gitkeep restaurado.
 
+- patchReadme.1: README reescrito (emojis só 💮/🌸/🪷/🔗, sem logo, sem rodapé Drux Domina, seção Criando comandos, alertas nativos); banner.svg quadrado só com pétalas; chat-demo.svg com foto de perfil real embutida (base64). (VIS) conferir renderização no GitHub.
+
 0. patchMenu.3: auditar fora do menu os pontos que quebram o padrão 💮/🌸 (ex.: economy-ui.js `ready ? '🌸' : '🌸'`, linhas com emoji fixo repetido em commands/economy.js, fun.js, pvp.js, tutorial.js).
 0b. patchMenu.4: revisar textos/título de commands/menu.js e data/short-aliases.js.
 1. data/scripts: ~100 test-v*.js de versões antigas; consolidar e enxugar scripts do package.json.
