@@ -1,0 +1,738 @@
+[
+  {
+    "id": "major-00",
+    "name": "O Louco",
+    "image": "RWS_Tarot_00_Fool.jpg",
+    "meaning": "novos começos, liberdade e espontaneidade",
+    "arcana": "maior",
+    "label": "major-00.png"
+  },
+  {
+    "id": "major-01",
+    "name": "O Mago",
+    "image": "RWS_Tarot_01_Magician.jpg",
+    "meaning": "iniciativa, habilidade e poder de agir",
+    "arcana": "maior",
+    "label": "major-01.png"
+  },
+  {
+    "id": "major-02",
+    "name": "A Sacerdotisa",
+    "image": "RWS_Tarot_02_High_Priestess.jpg",
+    "meaning": "intuição, silêncio e percepção interior",
+    "arcana": "maior",
+    "label": "major-02.png"
+  },
+  {
+    "id": "major-03",
+    "name": "A Imperatriz",
+    "image": "RWS_Tarot_03_Empress.jpg",
+    "meaning": "crescimento, afeto e criatividade",
+    "arcana": "maior",
+    "label": "major-03.png"
+  },
+  {
+    "id": "major-04",
+    "name": "O Imperador",
+    "image": "RWS_Tarot_04_Emperor.jpg",
+    "meaning": "estrutura, autoridade e estabilidade",
+    "arcana": "maior",
+    "label": "major-04.png"
+  },
+  {
+    "id": "major-05",
+    "name": "O Hierofante",
+    "image": "RWS_Tarot_05_Hierophant.jpg",
+    "meaning": "tradição, aprendizado e valores",
+    "arcana": "maior",
+    "label": "major-05.png"
+  },
+  {
+    "id": "major-06",
+    "name": "Os Enamorados",
+    "image": "RWS_Tarot_06_Lovers.jpg",
+    "meaning": "escolhas, vínculos e alinhamento",
+    "arcana": "maior",
+    "label": "major-06.png"
+  },
+  {
+    "id": "major-07",
+    "name": "O Carro",
+    "image": "RWS_Tarot_07_Chariot.jpg",
+    "meaning": "determinação, avanço e controle",
+    "arcana": "maior",
+    "label": "major-07.png"
+  },
+  {
+    "id": "major-08",
+    "name": "A Força",
+    "image": "RWS_Tarot_08_Strength.jpg",
+    "meaning": "coragem, autocontrole e gentileza",
+    "arcana": "maior",
+    "label": "major-08.png"
+  },
+  {
+    "id": "major-09",
+    "name": "O Eremita",
+    "image": "RWS_Tarot_09_Hermit.jpg",
+    "meaning": "introspecção, prudência e busca interior",
+    "arcana": "maior",
+    "label": "major-09.png"
+  },
+  {
+    "id": "major-10",
+    "name": "A Roda da Fortuna",
+    "image": "RWS_Tarot_10_Wheel_of_Fortune.jpg",
+    "meaning": "mudanças, ciclos e oportunidades",
+    "arcana": "maior",
+    "label": "major-10.png"
+  },
+  {
+    "id": "major-11",
+    "name": "A Justiça",
+    "image": "RWS_Tarot_11_Justice.jpg",
+    "meaning": "equilíbrio, verdade e consequências",
+    "arcana": "maior",
+    "label": "major-11.png"
+  },
+  {
+    "id": "major-12",
+    "name": "O Enforcado",
+    "image": "RWS_Tarot_12_Hanged_Man.jpg",
+    "meaning": "pausa, nova perspectiva e entrega",
+    "arcana": "maior",
+    "label": "major-12.png"
+  },
+  {
+    "id": "major-13",
+    "name": "A Morte",
+    "image": "RWS_Tarot_13_Death.jpg",
+    "meaning": "encerramento, transformação e renovação",
+    "arcana": "maior",
+    "label": "major-13.png"
+  },
+  {
+    "id": "major-14",
+    "name": "A Temperança",
+    "image": "RWS_Tarot_14_Temperance.jpg",
+    "meaning": "moderação, cura e conciliação",
+    "arcana": "maior",
+    "label": "major-14.png"
+  },
+  {
+    "id": "major-15",
+    "name": "O Diabo",
+    "image": "RWS_Tarot_15_Devil.jpg",
+    "meaning": "apegos, excessos e padrões limitantes",
+    "arcana": "maior",
+    "label": "major-15.png"
+  },
+  {
+    "id": "major-16",
+    "name": "A Torre",
+    "image": "RWS_Tarot_16_Tower.jpg",
+    "meaning": "ruptura, revelação e mudança súbita",
+    "arcana": "maior",
+    "label": "major-16.png"
+  },
+  {
+    "id": "major-17",
+    "name": "A Estrela",
+    "image": "RWS_Tarot_17_Star.jpg",
+    "meaning": "esperança, inspiração e recuperação",
+    "arcana": "maior",
+    "label": "major-17.png"
+  },
+  {
+    "id": "major-18",
+    "name": "A Lua",
+    "image": "RWS_Tarot_18_Moon.jpg",
+    "meaning": "incerteza, emoções e intuição",
+    "arcana": "maior",
+    "label": "major-18.png"
+  },
+  {
+    "id": "major-19",
+    "name": "O Sol",
+    "image": "RWS_Tarot_19_Sun.jpg",
+    "meaning": "clareza, alegria e vitalidade",
+    "arcana": "maior",
+    "label": "major-19.png"
+  },
+  {
+    "id": "major-20",
+    "name": "O Julgamento",
+    "image": "RWS_Tarot_20_Judgement.jpg",
+    "meaning": "despertar, avaliação e chamado",
+    "arcana": "maior",
+    "label": "major-20.png"
+  },
+  {
+    "id": "major-21",
+    "name": "O Mundo",
+    "image": "RWS_Tarot_21_World.jpg",
+    "meaning": "conclusão, integração e realização",
+    "arcana": "maior",
+    "label": "major-21.png"
+  },
+  {
+    "id": "cups-01",
+    "name": "Ás de Copas",
+    "image": "Cups01.jpg",
+    "meaning": "começo e potencial ligados a emoções, relações e intuição",
+    "arcana": "menor",
+    "suit": "Copas",
+    "rank": "Ás",
+    "label": "cups-01.png"
+  },
+  {
+    "id": "cups-02",
+    "name": "Dois de Copas",
+    "image": "Cups02.jpg",
+    "meaning": "escolhas e equilíbrio ligados a emoções, relações e intuição",
+    "arcana": "menor",
+    "suit": "Copas",
+    "rank": "Dois",
+    "label": "cups-02.png"
+  },
+  {
+    "id": "cups-03",
+    "name": "Três de Copas",
+    "image": "Cups03.jpg",
+    "meaning": "expansão e colaboração ligados a emoções, relações e intuição",
+    "arcana": "menor",
+    "suit": "Copas",
+    "rank": "Três",
+    "label": "cups-03.png"
+  },
+  {
+    "id": "cups-04",
+    "name": "Quatro de Copas",
+    "image": "Cups04.jpg",
+    "meaning": "estabilidade e estrutura ligados a emoções, relações e intuição",
+    "arcana": "menor",
+    "suit": "Copas",
+    "rank": "Quatro",
+    "label": "cups-04.png"
+  },
+  {
+    "id": "cups-05",
+    "name": "Cinco de Copas",
+    "image": "Cups05.jpg",
+    "meaning": "tensão, perda ou desafio ligados a emoções, relações e intuição",
+    "arcana": "menor",
+    "suit": "Copas",
+    "rank": "Cinco",
+    "label": "cups-05.png"
+  },
+  {
+    "id": "cups-06",
+    "name": "Seis de Copas",
+    "image": "Cups06.jpg",
+    "meaning": "movimento, apoio e transição ligados a emoções, relações e intuição",
+    "arcana": "menor",
+    "suit": "Copas",
+    "rank": "Seis",
+    "label": "cups-06.png"
+  },
+  {
+    "id": "cups-07",
+    "name": "Sete de Copas",
+    "image": "Cups07.jpg",
+    "meaning": "avaliação, estratégia e persistência ligados a emoções, relações e intuição",
+    "arcana": "menor",
+    "suit": "Copas",
+    "rank": "Sete",
+    "label": "cups-07.png"
+  },
+  {
+    "id": "cups-08",
+    "name": "Oito de Copas",
+    "image": "Cups08.jpg",
+    "meaning": "ritmo, força e desenvolvimento ligados a emoções, relações e intuição",
+    "arcana": "menor",
+    "suit": "Copas",
+    "rank": "Oito",
+    "label": "cups-08.png"
+  },
+  {
+    "id": "cups-09",
+    "name": "Nove de Copas",
+    "image": "Cups09.jpg",
+    "meaning": "maturidade, resultado e intensidade ligados a emoções, relações e intuição",
+    "arcana": "menor",
+    "suit": "Copas",
+    "rank": "Nove",
+    "label": "cups-09.png"
+  },
+  {
+    "id": "cups-10",
+    "name": "Dez de Copas",
+    "image": "Cups10.jpg",
+    "meaning": "fechamento de ciclo e responsabilidade ligados a emoções, relações e intuição",
+    "arcana": "menor",
+    "suit": "Copas",
+    "rank": "Dez",
+    "label": "cups-10.png"
+  },
+  {
+    "id": "cups-11",
+    "name": "Pajem de Copas",
+    "image": "Cups11.jpg",
+    "meaning": "curiosidade, mensagem e aprendizado ligados a emoções, relações e intuição",
+    "arcana": "menor",
+    "suit": "Copas",
+    "rank": "Pajem",
+    "label": "cups-11.png"
+  },
+  {
+    "id": "cups-12",
+    "name": "Cavaleiro de Copas",
+    "image": "Cups12.jpg",
+    "meaning": "movimento, busca e atitude ligados a emoções, relações e intuição",
+    "arcana": "menor",
+    "suit": "Copas",
+    "rank": "Cavaleiro",
+    "label": "cups-12.png"
+  },
+  {
+    "id": "cups-13",
+    "name": "Rainha de Copas",
+    "image": "Cups13.jpg",
+    "meaning": "maturidade e domínio interno ligados a emoções, relações e intuição",
+    "arcana": "menor",
+    "suit": "Copas",
+    "rank": "Rainha",
+    "label": "cups-13.png"
+  },
+  {
+    "id": "cups-14",
+    "name": "Rei de Copas",
+    "image": "Cups14.jpg",
+    "meaning": "liderança, domínio e realização ligados a emoções, relações e intuição",
+    "arcana": "menor",
+    "suit": "Copas",
+    "rank": "Rei",
+    "label": "cups-14.png"
+  },
+  {
+    "id": "pents-01",
+    "name": "Ás de Ouros",
+    "image": "Pents01.jpg",
+    "meaning": "começo e potencial ligados a recursos, trabalho e segurança",
+    "arcana": "menor",
+    "suit": "Ouros",
+    "rank": "Ás",
+    "label": "pents-01.png"
+  },
+  {
+    "id": "pents-02",
+    "name": "Dois de Ouros",
+    "image": "Pents02.jpg",
+    "meaning": "escolhas e equilíbrio ligados a recursos, trabalho e segurança",
+    "arcana": "menor",
+    "suit": "Ouros",
+    "rank": "Dois",
+    "label": "pents-02.png"
+  },
+  {
+    "id": "pents-03",
+    "name": "Três de Ouros",
+    "image": "Pents03.jpg",
+    "meaning": "expansão e colaboração ligados a recursos, trabalho e segurança",
+    "arcana": "menor",
+    "suit": "Ouros",
+    "rank": "Três",
+    "label": "pents-03.png"
+  },
+  {
+    "id": "pents-04",
+    "name": "Quatro de Ouros",
+    "image": "Pents04.jpg",
+    "meaning": "estabilidade e estrutura ligados a recursos, trabalho e segurança",
+    "arcana": "menor",
+    "suit": "Ouros",
+    "rank": "Quatro",
+    "label": "pents-04.png"
+  },
+  {
+    "id": "pents-05",
+    "name": "Cinco de Ouros",
+    "image": "Pents05.jpg",
+    "meaning": "tensão, perda ou desafio ligados a recursos, trabalho e segurança",
+    "arcana": "menor",
+    "suit": "Ouros",
+    "rank": "Cinco",
+    "label": "pents-05.png"
+  },
+  {
+    "id": "pents-06",
+    "name": "Seis de Ouros",
+    "image": "Pents06.jpg",
+    "meaning": "movimento, apoio e transição ligados a recursos, trabalho e segurança",
+    "arcana": "menor",
+    "suit": "Ouros",
+    "rank": "Seis",
+    "label": "pents-06.png"
+  },
+  {
+    "id": "pents-07",
+    "name": "Sete de Ouros",
+    "image": "Pents07.jpg",
+    "meaning": "avaliação, estratégia e persistência ligados a recursos, trabalho e segurança",
+    "arcana": "menor",
+    "suit": "Ouros",
+    "rank": "Sete",
+    "label": "pents-07.png"
+  },
+  {
+    "id": "pents-08",
+    "name": "Oito de Ouros",
+    "image": "Pents08.jpg",
+    "meaning": "ritmo, força e desenvolvimento ligados a recursos, trabalho e segurança",
+    "arcana": "menor",
+    "suit": "Ouros",
+    "rank": "Oito",
+    "label": "pents-08.png"
+  },
+  {
+    "id": "pents-09",
+    "name": "Nove de Ouros",
+    "image": "Pents09.jpg",
+    "meaning": "maturidade, resultado e intensidade ligados a recursos, trabalho e segurança",
+    "arcana": "menor",
+    "suit": "Ouros",
+    "rank": "Nove",
+    "label": "pents-09.png"
+  },
+  {
+    "id": "pents-10",
+    "name": "Dez de Ouros",
+    "image": "Pents10.jpg",
+    "meaning": "fechamento de ciclo e responsabilidade ligados a recursos, trabalho e segurança",
+    "arcana": "menor",
+    "suit": "Ouros",
+    "rank": "Dez",
+    "label": "pents-10.png"
+  },
+  {
+    "id": "pents-11",
+    "name": "Pajem de Ouros",
+    "image": "Pents11.jpg",
+    "meaning": "curiosidade, mensagem e aprendizado ligados a recursos, trabalho e segurança",
+    "arcana": "menor",
+    "suit": "Ouros",
+    "rank": "Pajem",
+    "label": "pents-11.png"
+  },
+  {
+    "id": "pents-12",
+    "name": "Cavaleiro de Ouros",
+    "image": "Pents12.jpg",
+    "meaning": "movimento, busca e atitude ligados a recursos, trabalho e segurança",
+    "arcana": "menor",
+    "suit": "Ouros",
+    "rank": "Cavaleiro",
+    "label": "pents-12.png"
+  },
+  {
+    "id": "pents-13",
+    "name": "Rainha de Ouros",
+    "image": "Pents13.jpg",
+    "meaning": "maturidade e domínio interno ligados a recursos, trabalho e segurança",
+    "arcana": "menor",
+    "suit": "Ouros",
+    "rank": "Rainha",
+    "label": "pents-13.png"
+  },
+  {
+    "id": "pents-14",
+    "name": "Rei de Ouros",
+    "image": "Pents14.jpg",
+    "meaning": "liderança, domínio e realização ligados a recursos, trabalho e segurança",
+    "arcana": "menor",
+    "suit": "Ouros",
+    "rank": "Rei",
+    "label": "pents-14.png"
+  },
+  {
+    "id": "swords-01",
+    "name": "Ás de Espadas",
+    "image": "Swords01.jpg",
+    "meaning": "começo e potencial ligados a pensamentos, conflitos e decisões",
+    "arcana": "menor",
+    "suit": "Espadas",
+    "rank": "Ás",
+    "label": "swords-01.png"
+  },
+  {
+    "id": "swords-02",
+    "name": "Dois de Espadas",
+    "image": "Swords02.jpg",
+    "meaning": "escolhas e equilíbrio ligados a pensamentos, conflitos e decisões",
+    "arcana": "menor",
+    "suit": "Espadas",
+    "rank": "Dois",
+    "label": "swords-02.png"
+  },
+  {
+    "id": "swords-03",
+    "name": "Três de Espadas",
+    "image": "Swords03.jpg",
+    "meaning": "expansão e colaboração ligados a pensamentos, conflitos e decisões",
+    "arcana": "menor",
+    "suit": "Espadas",
+    "rank": "Três",
+    "label": "swords-03.png"
+  },
+  {
+    "id": "swords-04",
+    "name": "Quatro de Espadas",
+    "image": "Swords04.jpg",
+    "meaning": "estabilidade e estrutura ligados a pensamentos, conflitos e decisões",
+    "arcana": "menor",
+    "suit": "Espadas",
+    "rank": "Quatro",
+    "label": "swords-04.png"
+  },
+  {
+    "id": "swords-05",
+    "name": "Cinco de Espadas",
+    "image": "Swords05.jpg",
+    "meaning": "tensão, perda ou desafio ligados a pensamentos, conflitos e decisões",
+    "arcana": "menor",
+    "suit": "Espadas",
+    "rank": "Cinco",
+    "label": "swords-05.png"
+  },
+  {
+    "id": "swords-06",
+    "name": "Seis de Espadas",
+    "image": "Swords06.jpg",
+    "meaning": "movimento, apoio e transição ligados a pensamentos, conflitos e decisões",
+    "arcana": "menor",
+    "suit": "Espadas",
+    "rank": "Seis",
+    "label": "swords-06.png"
+  },
+  {
+    "id": "swords-07",
+    "name": "Sete de Espadas",
+    "image": "Swords07.jpg",
+    "meaning": "avaliação, estratégia e persistência ligados a pensamentos, conflitos e decisões",
+    "arcana": "menor",
+    "suit": "Espadas",
+    "rank": "Sete",
+    "label": "swords-07.png"
+  },
+  {
+    "id": "swords-08",
+    "name": "Oito de Espadas",
+    "image": "Swords08.jpg",
+    "meaning": "ritmo, força e desenvolvimento ligados a pensamentos, conflitos e decisões",
+    "arcana": "menor",
+    "suit": "Espadas",
+    "rank": "Oito",
+    "label": "swords-08.png"
+  },
+  {
+    "id": "swords-09",
+    "name": "Nove de Espadas",
+    "image": "Swords09.jpg",
+    "meaning": "maturidade, resultado e intensidade ligados a pensamentos, conflitos e decisões",
+    "arcana": "menor",
+    "suit": "Espadas",
+    "rank": "Nove",
+    "label": "swords-09.png"
+  },
+  {
+    "id": "swords-10",
+    "name": "Dez de Espadas",
+    "image": "Swords10.jpg",
+    "meaning": "fechamento de ciclo e responsabilidade ligados a pensamentos, conflitos e decisões",
+    "arcana": "menor",
+    "suit": "Espadas",
+    "rank": "Dez",
+    "label": "swords-10.png"
+  },
+  {
+    "id": "swords-11",
+    "name": "Pajem de Espadas",
+    "image": "Swords11.jpg",
+    "meaning": "curiosidade, mensagem e aprendizado ligados a pensamentos, conflitos e decisões",
+    "arcana": "menor",
+    "suit": "Espadas",
+    "rank": "Pajem",
+    "label": "swords-11.png"
+  },
+  {
+    "id": "swords-12",
+    "name": "Cavaleiro de Espadas",
+    "image": "Swords12.jpg",
+    "meaning": "movimento, busca e atitude ligados a pensamentos, conflitos e decisões",
+    "arcana": "menor",
+    "suit": "Espadas",
+    "rank": "Cavaleiro",
+    "label": "swords-12.png"
+  },
+  {
+    "id": "swords-13",
+    "name": "Rainha de Espadas",
+    "image": "Swords13.jpg",
+    "meaning": "maturidade e domínio interno ligados a pensamentos, conflitos e decisões",
+    "arcana": "menor",
+    "suit": "Espadas",
+    "rank": "Rainha",
+    "label": "swords-13.png"
+  },
+  {
+    "id": "swords-14",
+    "name": "Rei de Espadas",
+    "image": "Swords14.jpg",
+    "meaning": "liderança, domínio e realização ligados a pensamentos, conflitos e decisões",
+    "arcana": "menor",
+    "suit": "Espadas",
+    "rank": "Rei",
+    "label": "swords-14.png"
+  },
+  {
+    "id": "wands-01",
+    "name": "Ás de Paus",
+    "image": "Wands01.jpg",
+    "meaning": "começo e potencial ligados a energia, iniciativa e criatividade",
+    "arcana": "menor",
+    "suit": "Paus",
+    "rank": "Ás",
+    "label": "wands-01.png"
+  },
+  {
+    "id": "wands-02",
+    "name": "Dois de Paus",
+    "image": "Wands02.jpg",
+    "meaning": "escolhas e equilíbrio ligados a energia, iniciativa e criatividade",
+    "arcana": "menor",
+    "suit": "Paus",
+    "rank": "Dois",
+    "label": "wands-02.png"
+  },
+  {
+    "id": "wands-03",
+    "name": "Três de Paus",
+    "image": "Wands03.jpg",
+    "meaning": "expansão e colaboração ligados a energia, iniciativa e criatividade",
+    "arcana": "menor",
+    "suit": "Paus",
+    "rank": "Três",
+    "label": "wands-03.png"
+  },
+  {
+    "id": "wands-04",
+    "name": "Quatro de Paus",
+    "image": "Wands04.jpg",
+    "meaning": "estabilidade e estrutura ligados a energia, iniciativa e criatividade",
+    "arcana": "menor",
+    "suit": "Paus",
+    "rank": "Quatro",
+    "label": "wands-04.png"
+  },
+  {
+    "id": "wands-05",
+    "name": "Cinco de Paus",
+    "image": "Wands05.jpg",
+    "meaning": "tensão, perda ou desafio ligados a energia, iniciativa e criatividade",
+    "arcana": "menor",
+    "suit": "Paus",
+    "rank": "Cinco",
+    "label": "wands-05.png"
+  },
+  {
+    "id": "wands-06",
+    "name": "Seis de Paus",
+    "image": "Wands06.jpg",
+    "meaning": "movimento, apoio e transição ligados a energia, iniciativa e criatividade",
+    "arcana": "menor",
+    "suit": "Paus",
+    "rank": "Seis",
+    "label": "wands-06.png"
+  },
+  {
+    "id": "wands-07",
+    "name": "Sete de Paus",
+    "image": "Wands07.jpg",
+    "meaning": "avaliação, estratégia e persistência ligados a energia, iniciativa e criatividade",
+    "arcana": "menor",
+    "suit": "Paus",
+    "rank": "Sete",
+    "label": "wands-07.png"
+  },
+  {
+    "id": "wands-08",
+    "name": "Oito de Paus",
+    "image": "Wands08.jpg",
+    "meaning": "ritmo, força e desenvolvimento ligados a energia, iniciativa e criatividade",
+    "arcana": "menor",
+    "suit": "Paus",
+    "rank": "Oito",
+    "label": "wands-08.png"
+  },
+  {
+    "id": "wands-09",
+    "name": "Nove de Paus",
+    "image": "Wands09.jpg",
+    "meaning": "maturidade, resultado e intensidade ligados a energia, iniciativa e criatividade",
+    "arcana": "menor",
+    "suit": "Paus",
+    "rank": "Nove",
+    "label": "wands-09.png"
+  },
+  {
+    "id": "wands-10",
+    "name": "Dez de Paus",
+    "image": "Wands10.jpg",
+    "meaning": "fechamento de ciclo e responsabilidade ligados a energia, iniciativa e criatividade",
+    "arcana": "menor",
+    "suit": "Paus",
+    "rank": "Dez",
+    "label": "wands-10.png"
+  },
+  {
+    "id": "wands-11",
+    "name": "Pajem de Paus",
+    "image": "Wands11.jpg",
+    "meaning": "curiosidade, mensagem e aprendizado ligados a energia, iniciativa e criatividade",
+    "arcana": "menor",
+    "suit": "Paus",
+    "rank": "Pajem",
+    "label": "wands-11.png"
+  },
+  {
+    "id": "wands-12",
+    "name": "Cavaleiro de Paus",
+    "image": "Wands12.jpg",
+    "meaning": "movimento, busca e atitude ligados a energia, iniciativa e criatividade",
+    "arcana": "menor",
+    "suit": "Paus",
+    "rank": "Cavaleiro",
+    "label": "wands-12.png"
+  },
+  {
+    "id": "wands-13",
+    "name": "Rainha de Paus",
+    "image": "Wands13.jpg",
+    "meaning": "maturidade e domínio interno ligados a energia, iniciativa e criatividade",
+    "arcana": "menor",
+    "suit": "Paus",
+    "rank": "Rainha",
+    "label": "wands-13.png"
+  },
+  {
+    "id": "wands-14",
+    "name": "Rei de Paus",
+    "image": "Wands14.jpg",
+    "meaning": "liderança, domínio e realização ligados a energia, iniciativa e criatividade",
+    "arcana": "menor",
+    "suit": "Paus",
+    "rank": "Rei",
+    "label": "wands-14.png"
+  }
+]

@@ -1,0 +1,37 @@
+# Dependências
+node_modules/
+
+# Ambiente e credenciais
+.env
+.env.*
+auth/
+
+# Configs sensíveis
+config/private/
+config/sakura.config.json
+
+# Banco de dados e estado
+storage/*.json
+storage/logs/
+storage/cache/
+storage/temp/
+storage/bin/
+storage/backups/
+storage/updates/
+
+# Backups
+backup/*
+!backup/README.md
+
+# Vendor empacotado (reinstalável via npm)
+*.tgz
+data/vendor/**/*.tgz
+
+# Áudio cache
+assets/audio/legacy/.ptt-cache/
+
+# Logs e temporários
+*.log
+*.zip
+.DS_Store
+node_modules

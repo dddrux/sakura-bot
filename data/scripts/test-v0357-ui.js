@@ -1,0 +1,12 @@
+const { loadCommands } = await import('../handler.js')
+const logger = { debug() {}, info() {}, success() {}, warn() {}, error() {} }
+const commands = await loadCommands(logger)
+const ai = commands.get('ia')
+const token = commands.get('iatoken')
+if (!ai || !commands.get('sakuraia') || !commands.get('iagrupo')) throw new Error('comando e aliases da IA não carregaram')
+if (!token || !commands.get('aitk') || !commands.get('groqtk')) throw new Error('comando e aliases atuais do pool não carregaram')
+if (!token.ownerOnly || !token.subownerAllowed || !token.sensitiveArgs || !token.fastPath) throw new Error('proteções do comando de token ausentes')
+if (!ai.sensitiveArgs) throw new Error('argumentos de configuração da IA não estão protegidos nos logs')
+if (!Array.isArray(ai.menuEntries) || !ai.menuEntries.length) throw new Error('IA não entrou no menu')
+if (!commands.get('iaconfig')?.ownerOnly || !commands.get('iaconfig')?.subownerAllowed) throw new Error('painel de IA não está restrito corretamente')
+console.log(`✅ Parte 7 UI: ${new Set([...commands.values()]).size} ações e ${commands.size} aliases; IA e pool em config carregados`)
