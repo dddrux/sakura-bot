@@ -39,3 +39,4 @@ Sem iniciar o bot: `npm run configure` abre o mesmo assistente.
 - `assets/` — áudios, figurinhas, menu, tarot
 
 Pendências: `PENDENCIAS.md`.
+# sakura-bot
