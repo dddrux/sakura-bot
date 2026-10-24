@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/readme/banner.svg" alt="Pétalas de sakura caindo" width="360">
+<img src="docs/readme/banner.svg" alt="Pétalas de sakura caindo" width="100%">
 
 <br><br>
 
@@ -32,7 +32,7 @@
 
 ## 🪷 Visão geral
 
-| | |
+| Área | Detalhe |
 |---|---|
 | 💮 **Plataforma** | WhatsApp multi-dispositivo, via fork do Baileys incluído em `data/vendor/` |
 | 🌸 **Runtime** | Node.js ≥ 22.5, módulos ESM, sem build |
@@ -69,43 +69,6 @@
 </tr>
 </table>
 
-<details>
-<summary><b>🌸 Ver a mesma conversa em texto</b></summary>
-
-<br>
-
-```text
- você ─────────────────────────────
- .menu                        15:52 ✓✓
-
- Sakura-MD ────────────────────────
- ╭━━⪩ 🪷 *SAKURA-MD* ⪨━━
- ▢ • 💮 Principal
- ▢ • 🌸 Mídia
- ▢ • 💮 Grupo
- ▢ • 🌸 Administração
- ▢ • 💮 Inteligência artificial
- ▢ • 🌸 Economia
- ▢ • 💮 Diversão
- ▢ • 🌸 VIP
- ╰━━─「🪷」─━━
- [ 💮 Abrir menu ]
-
- você ─────────────────────────────
- .play lofi hip hop           15:52 ✓✓
-
- Sakura-MD ────────────────────────
- 🌸 Buscando no YouTube...
- áudio enviado
-
- você ─────────────────────────────
- .calculadora 2 + 2 * (3 + 1) 15:52 ✓✓
-
- Sakura-MD ────────────────────────
- 🌸 Resultado: 10
-```
-
-</details>
 
 <br>
 
@@ -325,6 +288,7 @@ Na primeira vez aparece um **QR code** no terminal: abra o WhatsApp, vá em *Apa
 | `npm run panel` | sobe só o painel web |
 | `npm run reset-session` | apaga `auth/` e pareia de novo |
 | `npm run new:command -- exemplo "Principal"` | gera um comando novo |
+| `./commit.sh "mensagem"` | commit seguro (ignora `auth/`, `storage/`, `config/private/`) e push |
 
 <br>
 

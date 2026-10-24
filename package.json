@@ -74,6 +74,7 @@
     "test:v2-finalization": "node data/scripts/test-v2-finalization.js",
     "test:v2": "node data/scripts/test-v2-foundation.js && node data/scripts/test-v2-runtime.js && node data/scripts/test-v2-ai-config.js && node data/scripts/test-v2-autofig.js && node data/scripts/test-v2-json-stores.js && node data/scripts/test-v2-terminal-self.js && node data/scripts/test-v2-rc3-client.js && node data/scripts/test-v2-rc4-menu.js && node data/scripts/test-v2-rc5-media-ui.js && node data/scripts/test-v2-finalization.js && node data/scripts/release-audit.js && npm run test:v2-rc6 && npm run test:v2-rc7 && npm run test:v2-rc8 && npm run test:v2-rc9 && npm run test:v2-rc10 && npm run test:v2-media-cta-hotfix && npm run test:v2-ui-sticker-hardening && npm run test:v2-hotfix3 && npm run test:v2-hotfix4 && npm run test:v2-hotfix5 && npm run test:v2-rc11",
     "new:command": "node data/scripts/new-command.js",
+    "commit": "bash commit.sh",
     "test:v2-terminal-self": "node data/scripts/test-v2-terminal-self.js",
     "test:v2-rc3": "node data/scripts/test-v2-rc3-client.js",
     "test:v2-rc4": "node data/scripts/test-v2-rc4-menu.js",
